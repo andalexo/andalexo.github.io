@@ -1,20 +1,20 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
+- title: About Me
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "Projects"
   url: "/design/"
   side: left
   dropdown:
-  - title: "Grid & Colors"
+  - title: "TCTsim"
     url: "/design/grid/"
-  - title: "Typography"
+  - title: "CryoBLM"
     url: "/design/typography/typography/"
-  - title: "Page/Post"
+  - title: "BLEDPy"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
     url: "/design/post-left-sidebar/"
