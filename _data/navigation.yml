@@ -7,14 +7,21 @@
   side: left
 
 - title: "Projects"
+  url: "/projects/"
+  side: left
+  dropdown:
+  - title: "CryoBLM"
+    url: "/projects/cryoblm/"
+
+- title: "Design"
   url: "/design/"
   side: left
   dropdown:
-  - title: "TCTsim"
+  - title: "Grid"
     url: "/design/grid/"
-  - title: "CryoBLM"
+  - title: "Typography"
     url: "/design/typography/typography/"
-  - title: "BLEDPy"
+  - title: "Post Template"
     url: "/design/page/"
   - title: "Post-Left-Sidebar"
     url: "/design/post-left-sidebar/"
@@ -61,7 +68,7 @@
 
 - title: Blog
   url: "/blog/"
-  side: left
+  side: right
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
