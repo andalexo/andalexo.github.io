@@ -6,8 +6,8 @@
 #
 layout: frontpage
 header:
+  # image_fullwidth: header_bolero.png
   image_fullwidth: header_thatsdope.jpg
-
 widget1:
   title: "Blog"
   url: '/blog/'
