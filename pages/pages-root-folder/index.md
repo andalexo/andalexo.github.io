@@ -8,23 +8,24 @@ layout: frontpage
 header:
   # image_fullwidth: header_bolero.png
   image_fullwidth: header_thatsdope.jpg
+
 widget1:
+    title: "Projects"
+    url: '/projects/'
+    text: 'My projects & a video from the theme as link.'
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+
+widget2:
   title: "Blog"
   url: '/blog/'
   image: widget-1-302x182.jpg
   text: 'Yet another blog; just keeping track'
 
-widget2:
-  title: "Projects?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-
 widget3:
   title: "Notes"
-  url: 'https://github.com/Phlow/feeling-responsive'
+  url: '/notes/'
   image: widget-github-303x182.jpg
-  text: '<em>Notes</em> about programming issues. Make it your own and start building. Grab the <a href="https://github.com/Phlow/feeling-responsive/tree/bare-bones-version">Bare-Bones-Version</a> for a fresh start or learn how to use it with the <a href="https://github.com/Phlow/feeling-responsive/tree/gh-pages">education-version</a> with sample posts and images. Then tell me via Twitter <a href="http://twitter.com/phlow">@phlow</a>.'
+  text: '<em>Notes</em> about programming issues. Tell me via Twitter <a href="http://twitter.com/andalexo">@andalexo</a>.'
 
 #
 # Use the call for action to show a button on the frontpage

@@ -13,6 +13,13 @@
   - title: "CryoBLM"
     url: "/projects/cryoblm/"
 
+- title: "Notes"
+  url: "/notes/"
+  side: left
+  dropdown:
+  - title: "Linux"
+    url: "/notes/linux/"
+
 - title: "Design"
   url: "/design/"
   side: left
