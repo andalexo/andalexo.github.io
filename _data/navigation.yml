@@ -22,6 +22,17 @@
   - title: "Linux"
     url: "/notes/linux/"
 
+- title: "Contact"
+  url: "/contact/"
+  side: right
+
+- title: Blog
+  url: "/blog/"
+  side: right
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
 # - title: "Design"
 #   url: "/design/"
 #   side: left
@@ -75,17 +86,7 @@
 #   - title: "Roadmap"
 #     url: "/roadmap/"
 
-- title: Blog
-  url: "/blog/"
-  side: right
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
 # - title: "Search"
 #   url: "/search/"
 #   side: right
 
-- title: "Contact"
-  url: "/contact/"
-  side: right
