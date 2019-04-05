@@ -12,8 +12,7 @@ In general it would be nice to have a few info on topics such as:
 
 + science, physics and math
 + software developement
-+ music
-+ photography.
++ music & photography
 
 Cheers,  
 Andreas
