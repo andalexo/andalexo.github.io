@@ -7,25 +7,26 @@
 layout: frontpage
 header:
   # image_fullwidth: header_bolero.png
-  image_fullwidth: header_thatsdope.jpg
+  image_fullwidth: header-bgv-network-1800x900.jpg
 
 widget1:
     title: "Projects"
     url: '/projects/'
-    text: 'My projects & a video from the theme as link.'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+    text: 'Links and information on my projects'
+    image: widget-github-303x182.jpg
+    # video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 
 widget2:
   title: "Blog"
   url: '/blog/'
-  image: widget-1-302x182.jpg
-  text: 'Yet another blog; just keeping track'
+  image: widget-blog-303x182.jpg
+  text: 'Yet another blog; keeping up to date'
 
 widget3:
   title: "Notes"
   url: '/notes/'
-  image: widget-github-303x182.jpg
-  text: '<em>Notes</em> about programming issues. Tell me via Twitter <a href="http://twitter.com/andalexo">@andalexo</a>.'
+  image: widget-notes-303x182.jpg
+  text: 'Notes pastebin'
 
 #
 # Use the call for action to show a button on the frontpage

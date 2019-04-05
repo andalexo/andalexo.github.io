@@ -7,7 +7,11 @@
 #
 # Run:
 # $ sudo gem update --system
-# $ sudo gem install bundler jekyll
+# -- could be also $ sudo gem update --system --install-dir=/usr/share/gems --bindir /usr/local/bin
+# $ sudo gem install bundler
+# $ sudo gem install jekyll -- this now fails
+# it should be like
+# bundle install {}
 # Then go inside the site directory (Gemfile) and run 
 # $ bundle install
 # Dependencies will be installed.

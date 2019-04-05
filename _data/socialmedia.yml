@@ -3,15 +3,20 @@
   class: icon-github
   title: Coding
 
-- name: YouTube
-  url: http://www.youtube.com/
-  class: icon-youtube
-  title: "Videos on YouTube"
+- name: LinkedIn
+  url: https://www.linkedin.com/in/andalexo/
+  class: icon-linkedin
+  title: "LinkedIn"
 
 - name: Twitter
   url: http://twitter.com/andalexo
   class: icon-twitter
   title: "Twitter"
+
+# - name: YouTube
+#   url: http://www.youtube.com/
+#   class: icon-youtube
+#   title: "Videos on YouTube"
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
