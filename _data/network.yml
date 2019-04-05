@@ -1,9 +1,14 @@
 - menu_name: "More"
 
-- name: "Something"
-  url: "www.github.com"
+- name: "andreas @ cern"
+  url: "http://cern.ch/andreas"
   class: "network-entypo"
-  title: "Something tooltip"
+  title: "andreas @ cern"
+
+- name: "andalexo.gr"
+  url: "http://andalexo.gr"
+  class: "network-entypo"
+  title: "andalexo"
 
 # - name: "Built on Foundation"
 #  url: "http://foundation.zurb.com/"

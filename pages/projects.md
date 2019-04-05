@@ -4,7 +4,7 @@ show_meta: false
 title: "Projects"
 subheadline: "Projects"
 header:
-   image_fullwidth: "header_unsplash_5.jpg"
+   image_fullwidth: "header-vscode.png"
 permalink: "/projects/"
 ---
 <ul>

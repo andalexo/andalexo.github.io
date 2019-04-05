@@ -16,13 +16,11 @@ slogan: 'Segmentation fault'
 
 # The description is used on homepage and in the footer to quickly describe
 # your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Verba volant, scripta manent.'
+description: '<i>Verba volant, scripta manent.</i>'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to
 # leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>0x7E0 Copyleft andalexo. Website created based on
-<a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a>.
-</p>'
+credits: '<p>0x7E0 Copyleft andalexo<br>forked from <a href="http://phlow.github.io/feeling-responsive/">Phlow/feeling-responsive</a></p>'
 
 # Main author of the website
 # See > authors.yml

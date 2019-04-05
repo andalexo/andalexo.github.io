@@ -2,8 +2,8 @@
   url: "/"
   side: left
 
-- title: About
-  url: "/about/"
+- title: Bio
+  url: "/bio/"
   side: left
 
 - title: "Projects"
@@ -12,6 +12,8 @@
   dropdown:
   - title: "CryoBLM"
     url: "/projects/cryoblm/"
+  - title: "BGV"
+    url: "/projects/bgv/"
 
 - title: "Notes"
   url: "/notes/"
@@ -80,9 +82,9 @@
   - title: "Blog Archive"
     url: "/blog/archive/"
 
-- title: "Search"
-  url: "/search/"
-  side: right
+# - title: "Search"
+#   url: "/search/"
+#   side: right
 
 - title: "Contact"
   url: "/contact/"
