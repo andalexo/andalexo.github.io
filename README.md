@@ -10,7 +10,7 @@ This site does not really have a reason to exist; but maybe I will somehow make 
 
 In general it would be nice to have a few info on topics such as:
 
-+ science, physics and math
++ science, physics and maths
 + software developement
 + music & photography
 

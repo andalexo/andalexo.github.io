@@ -13,7 +13,7 @@ header:
 
 In general it would be nice to have a few info on topics such as:
 
-+ science, physics and math
++ science, physics and maths
 + software developement
 + music & photography
 
