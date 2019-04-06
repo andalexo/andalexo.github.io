@@ -29,8 +29,10 @@ Following the successful completion of a second irradiation test, Andreas took o
 
 ---
 
-### IPAC17
+### [IPAC17](https://ipac17.org/)
 
 Andreas Alexopoulos is a PhD student from the University of Thessaly. For the past 3 years he has worked in beam instrumentation topics such as beam loss, position and profile monitoring. Currently, he is involved in the Beam Gas Vertex project which concerns of a non-invasive beam profile monitor foreseen for the HL-LHC upgrade. Tracks of charged particles created by beam-gas collisions are tracked by scintillating fibers whose data are read out and processed on a CPU farm. Within a time interval the beam profile can be estimated by reconstructing the primary interaction vertices. His interests include image and video processing as well as the usage of high performance computing techniques for HEP data processing.
+
+---
 
 <a class="radius button small" href="{{ site.url }}/antibio/">Antibio ›</a>
