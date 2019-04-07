@@ -10,10 +10,10 @@
   url: "/projects/"
   side: left
   dropdown:
-  - title: "CryoBLM"
-    url: "/projects/cryoblm/"
   - title: "BGV"
     url: "/projects/bgv/"
+  - title: "CryoBLM"
+    url: "/projects/cryoblm/"
 
 - title: "Notes"
   url: "/notes/"
@@ -21,6 +21,22 @@
   dropdown:
   - title: "Linux"
     url: "/notes/linux/"
+
+# Right side
+- title: Blog
+  url: "/blog/"
+  side: right
+  dropdown:
+  - title: "Blog Archive"
+    url: "/blog/archive/"
+
+- title: "Search"
+  url: "/search/"
+  side: right
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
 
 # - title: "Design"
 #   url: "/design/"
@@ -74,18 +90,3 @@
 #     url: "/changelog/"
 #   - title: "Roadmap"
 #     url: "/roadmap/"
-
-- title: Blog
-  url: "/blog/"
-  side: right
-  dropdown:
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-# - title: "Search"
-#   url: "/search/"
-#   side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
