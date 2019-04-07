@@ -1,22 +1,15 @@
 <aside>
 	<div class="panel radius">
-        <h3>Index</h3>
+        <h3>Tags</h3>
+
         <ul>
-            <li><a href="{{ site.url }}/notes/#General">General</a></li>
-            <li><a href="{{ site.url }}/notes/#Python">Python</a></li>
-            <li><a href="{{ site.url }}/notes/#Cpp">C++</a></li>
-            <li><a href="{{ site.url }}/notes/#Linux">Linux</a></li>
+        {% for tag in site.tags %}
+          {% if tag[0] == 'blog' %}
+            {% continue %}
+          {% endif %}
+          <li><a style="font-size: 20pt" href="{{ site.url }}/notes/#{{ tag[0] }}">#{{ tag[0] }}  </a></li>
+        {% endfor %}
         </ul>
 		
 	</div>
-
-  <!-- <img class="b30" src="http://dummyimage.com/303x16:9/df4949/e27b3f.png&amp;text=Ugly+Ad+Space" alt="">
-
-
-	<div class="border-dotted radius b30">
-		<img src="http://placekitten.com/271/270" alt="uh, Placekitten">
-		<p class="text-left">
-			This is an advertisment with a crazy cat! <a href="http://placekitten.com/">More cats, please!</a>
-		</p>
-	</div> -->
 </aside>
