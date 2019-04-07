@@ -18,9 +18,6 @@
 - title: "Notes"
   url: "/notes/"
   side: left
-  dropdown:
-  - title: "Linux"
-    url: "/notes/linux/"
 
 # Right side
 - title: Blog
@@ -38,6 +35,7 @@
   url: "/contact/"
   side: right
 
+# To comment out
 # - title: "Design"
 #   url: "/design/"
 #   side: left

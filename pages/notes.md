@@ -1,14 +1,43 @@
 ---
-layout: frontpage2
-
-header:
-   image_fullwidth: "header_unsplash_5.jpg"
+layout: page
+# subheadline: Templates
+title:  "Notes"
+teaser: "just keeping some notes"
 permalink: "/notes/"
-
-widget1:
-    title: "Linux Notes"
-    url: '/notes/linux/'
-    text: 'Linux Notes'
-    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
-
 ---
+
+<div class="row">
+	<div class="medium-8 columns t30">
+		<h4 id="General">General</h4>
+        <ul>
+            {% for post in site.tags.linux %}
+            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+
+        <h4 id="Python">Python</h4>
+        <ul>
+            {% for post in site.tags.linux %}
+            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+
+        <h4 id="Cpp">C++</h4>
+        <ul>
+            {% for post in site.tags.linux %}
+            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+
+        <h4 id="Linux">Linux</h4>
+        <ul>
+            {% for post in site.tags.linux %}
+            <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
+	</div><!-- /.medium-7.columns -->
+
+	<div class="medium-4 columns t30">
+		{% include _sidebar_notes.html %}
+	</div><!-- /.medium-5.columns -->
+</div><!-- /.row -->
