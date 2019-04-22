@@ -18,7 +18,7 @@ permalink: "/projects/"
 <div class="row t60">
     <div class="medium-6 columns b30">
         <a href="{{ site.categories.projects.url }}bgv/">
-        <img src="{{ site.urlimg }}webdesign_screenshot_nixdorf.jpg" alt="">
+        <img src="{{ site.urlimg }}projects-bgv-animation.gif" alt="">
         <h4>Beam Gas Vertex Demostrator (BGV)</h4>
         </a>
         <p>CERN, 2015-2019</p>
@@ -26,7 +26,7 @@ permalink: "/projects/"
 
     <div class="medium-6 columns b30">
         <a href="{{ site.categories.projects.url }}cryoblm/">
-        <img src="{{ site.urlimg }}webdesign_screenshot_jcorneille.jpg" alt="">
+        <img src="{{ site.urlimg }}projects-cryoblm.png" alt="">
         <h4>Cryogenic Beam Loss Monitors (CryoBLM)</h4>
         </a>
         <p>CERN, 2014-2015</p>
@@ -47,7 +47,7 @@ permalink: "/projects/"
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}apidpy/">
         <img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
-        <h4>APIDPy - A package for processing interactively data</h4>
+        <h4>APIDPy - A Package for Interactive Data Processing</h4>
         </a>
         <p>CERN, 2016</p>
     </div><!-- /.medium-4.columns -->
