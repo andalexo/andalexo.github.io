@@ -18,3 +18,35 @@ author: andalexo
 ---
 
 ... in Python
+
+```python
+print('Hello, World !')
+```
+
+... in C
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    printf("Hello, World !\n");
+    return 0;
+}
+```
+
+... in C++
+
+```c++
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello, World !" << endl;
+    return 0;
+}
+```
+
+OK, that's enough !
