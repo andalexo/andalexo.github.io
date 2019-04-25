@@ -37,8 +37,8 @@ permalink: "/projects/"
 
 <div class="row t30">
     <div class="medium-4 columns">
-        <a href="{{ site.categories.projects.url }}comm-ctrl/">
-        <img src="{{ site.urlimg }}webdesign_screenshot_stilwandel.jpg" alt="">
+        <a href="{{ site.categories.projects.url }}srv-pub-ctrl/">
+        <img src="{{ site.urlimg }}projects-srvpubctrl.png" alt="">
         <h4>SRV-PUB-CTRL: Dynamic H/W control with servers and publishers</h4>
         </a>
         <p>CERN, 2017</p>
