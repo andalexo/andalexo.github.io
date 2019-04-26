@@ -6,7 +6,6 @@
 #
 layout: frontpage
 header:
-  # image_fullwidth: header_bolero.png
   image_fullwidth: header-bgv-network-1800x900.jpg
 
 widget1:

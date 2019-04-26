@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline:  "server publisher controller"
+subheadline:  "Server Publisher Controller"
 title:  "srv-pub-ctrl"
 teaser: "A controller for deploying servers and publishers"
 breadcrumb: true

@@ -18,7 +18,7 @@ permalink: "/projects/"
 <div class="row t60">
     <div class="medium-6 columns b30">
         <a href="{{ site.categories.projects.url }}bgv/">
-        <img src="{{ site.urlimg }}projects-bgv-animation-1.gif" alt="">
+        <img src="{{ site.urlimg }}projects-bgv-animation.gif" alt="">
         <h4>Beam Gas Vertex Demostrator (BGV)</h4>
         </a>
         <p>CERN, 2015-2019</p>
@@ -46,7 +46,7 @@ permalink: "/projects/"
 
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}apidpy/">
-        <img src="{{ site.urlimg }}webdesign_screenshot_tarnkappe.jpg" alt="">
+        <img src="{{ site.urlimg }}projects-vim.png" alt="">
         <h4>APIDPy - A Package for Interactive Data Processing</h4>
         </a>
         <p>CERN, 2016</p>
@@ -54,7 +54,7 @@ permalink: "/projects/"
 
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}vuejs-flask/">
-        <img src="{{ site.urlimg }}webdesign_screenshot_schriefer.jpg" alt="">
+        <img src="{{ site.urlimg }}projects-vim.png" alt="">
         <h4>VueJSFlask: A website designed primarily to display data</h4>
         </a>
         <p>CERN, 2018</p>
