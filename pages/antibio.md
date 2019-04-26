@@ -4,7 +4,7 @@ show_meta: false
 title: "AntiBio"
 teaser: "<p style='font-family:courier'> Like a bio, only more interesting and fun.</p>"
 header:
-   image_fullwidth: "header-thatsdope-1800x900.jpg"
+   image_fullwidth: "header-thatsdope.png"
 permalink: "/antibio/"
 ---
 
