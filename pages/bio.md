@@ -7,6 +7,11 @@ header:
    image_fullwidth: "header-thatsdope.png"
 permalink: "/bio/"
 ---
+<style>
+   .alert-box{
+    text-align: center;
+   }
+</style>
 
 <div class="row">
 <div class="medium-4 medium-push-8 columns" markdown="1">
@@ -20,16 +25,21 @@ permalink: "/bio/"
 
 <div class="medium-8 medium-pull-4 columns" markdown="1">
 
-<b style="font-family:courier;color:#FF7500">
-Software Engineer | Data Scientist<br>
-Musician | Photographer | Traveler
+<div class="panel radius">
+   <b style="font-family:courier;color:#FF7500">
+   Software Engineer | Data Scientist<br>
+   Musician | Photographer | Traveler
 </b>
+</div>
 
-### One-liner
-An inquisitive and passionate Computer and Data Scientist with a 5 year experience and a strong foundation in mathematics, problem solving, data analysis, software development and DevOps practices.
+<div class="alert-box {{ info }} {{ include.classes }}"><a href="{{ site.url }}/assets/alexopoulos_cv.pdf">Download my CV</a></div>
 
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
+
+
+### One-liner
+An inquisitive and passionate Computer and Data Scientist with a 5 year experience and a strong foundation in mathematics, problem solving, data analysis, software development and DevOps practices.
 
 ### Short
 
