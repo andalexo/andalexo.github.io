@@ -1,4 +1,4 @@
-#
+
 # This config-file is only needed for development. Instead of changing the url
 # everytime you work locally on the project, you start both config-files, overwriting
 # the first one with the development variables needed.
@@ -6,15 +6,12 @@
 # DEPRECATED: Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 #
 # Run:
-# $ sudo gem update --system
-# -- could be also $ sudo gem update --system --install-dir=/usr/share/gems --bindir /usr/local/bin
+# $ sudo gem update --system --install-dir=/usr/share/gems --bindir /usr/local/bin
 # $ sudo gem install bundler
-# $ sudo gem install jekyll -- this now fails
-# it should be like
-# bundle install {}
 # Then go inside the site directory (Gemfile) and run 
 # $ bundle install
-# Dependencies will be installed.
+# Dependencies will be installed. Then it still has an issue with ffi-1.9.14. Run:
+# $ sudo gem pristine ffi --version 1.9.14
 # Start development with › $ bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
 url: 		'http://localhost:4000'
