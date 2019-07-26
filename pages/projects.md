@@ -53,9 +53,9 @@ permalink: "/projects/"
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <a href="{{ site.categories.projects.url }}vuejs-flask/">
+        <a href="{{ site.categories.projects.url }}flask-vue/">
         <img src="{{ site.urlimg }}projects-vim.png" alt="">
-        <h4>VueJSFlask: A website designed primarily to display data</h4>
+        <h4>Flask-Vue: A website designed primarily to display data</h4>
         </a>
         <p>CERN, 2018</p>
     </div><!-- /.medium-4.columns -->
