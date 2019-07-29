@@ -18,3 +18,11 @@ permalink: "/test/"
 {% include list-collection collection='notes' %}
 
 {% include list-posts %}
+
+{% raw %}
+$$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+{% endraw %}
+
+{% raw %}
+\\[ \frac{1}{n^{2}} \\]
+{% endraw %}

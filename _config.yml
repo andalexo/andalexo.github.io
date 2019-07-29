@@ -80,6 +80,8 @@ exclude:
     - LICENSE
     - README.md
     - INSTALL.md
+kramdown:
+  math_engine: mathjax
 
 
 # The language setting is used in /includes/header.html for html-settings
