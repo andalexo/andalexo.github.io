@@ -7,12 +7,13 @@ meta_teaser: "All good things start with a 'Hello, World !'"
 breadcrumb: true
 categories:
     - blog
+tag: "random"
 header: no
 image:
     title: 2016-04-06-blog-header-hello-world.jpg
     caption: Wikipedia
     caption_url: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
-    thumb: "header-brooklyn-bridge-thumb.jpg"
+    thumb: "2016-04-06-blog-header-hello-world.jpg"
 author: andalexo
 ---
 

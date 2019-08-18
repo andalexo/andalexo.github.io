@@ -17,4 +17,4 @@ He does not have a favorite meal since every meal is his favorite. He does not h
 ---
 
 ### tCSC-2018
-I am a PhD student of the University of Thessaly working on beam diagnostics. More specifically,I am involved on a novel beam  profile  detector  which  uses  tracks  and  vertices  in order to reconstruct the beam profile. You can find me and ask me more about it –enjoy responsibly! On my normal life, I enjoy programming in C++ and Python while I am  very experienced in messing with  Linux (hail to snapper). I am a loud typer and a quiet sleeper. I travel a lot and I play music. 
+I am a PhD student of the University of Thessaly working on beam diagnostics. More specifically, I am involved on a novel beam  profile  detector  which  uses  tracks  and  vertices  in order to reconstruct the beam profile. You can find me and ask me more about it – enjoy responsibly! On my normal life, I enjoy programming in C++ and Python while I am  very experienced in messing with  Linux (hail to snapper). I am a loud typer and a quiet sleeper. I travel a lot and I play music. 

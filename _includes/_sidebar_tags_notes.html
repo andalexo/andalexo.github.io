@@ -1,0 +1,28 @@
+<aside>
+	<div class="panel radius">
+      <h3>Tags</h3>
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+        <span class="site-tag">
+            <a href="/tag/{{ tag | first | slugify }}/"
+                style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%">
+                    {{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }})
+            </a>
+        </span>
+        {% endfor %}
+
+        {% assign tags_notes =  site.categories.notes | map: 'tags' | join: ',' | join: ',' | split: ',' %}
+        {% for tag in tags_notes %}
+        <span class="site-tag">
+            <a href="/tag/{{ tag }}/"
+               style="font-size: {{ tag | last | size  |  times: 4 | plus: 80  }}%"
+            >
+               {{ tag | replace:'-', ' ' }} ({{ tag | last | size }})
+            </a>
+        </span>
+        {% endfor %}
+        
+    </div>
+    
+</aside>
+

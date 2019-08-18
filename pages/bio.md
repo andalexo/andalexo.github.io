@@ -47,6 +47,8 @@ Andreas Alexopoulos is a PhD student of the University of Thessaly working on be
 
 ### Medium
 
+Somewhere in the middle.
+
 ### Long
 
 Andreas Alexopoulos is a PhD student of the University of Thessaly working on beam diagnostics at CERN. Currently he is involved with a novel beam profile detector which uses tracks from beam-gas interactions in order to reconstruct in a non-invasive fashion the beam profile.

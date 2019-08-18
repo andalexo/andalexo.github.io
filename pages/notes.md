@@ -24,6 +24,6 @@ permalink: "/notes/"
 		</dl>
 	</div><!-- /.small-12.columns -->
     <div class="medium-4 columns t30">
-		{% include _sidebar_tags.html %}
+		{% include _sidebar_tags_notes.html %}
 	</div><!-- /.medium-5.columns -->
 </div><!-- /.row -->

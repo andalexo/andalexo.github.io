@@ -46,7 +46,7 @@ permalink: "/projects/"
 
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}apidpy/">
-        <img src="{{ site.urlimg }}projects-vim.png" alt="">
+        <img src="{{ site.urlimg }}projects-apidpy.png" alt="">
         <h4>APIDPy - A Package for Interactive Data Processing</h4>
         </a>
         <p>CERN, 2016</p>
@@ -54,8 +54,8 @@ permalink: "/projects/"
 
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}flask-vue/">
-        <img src="{{ site.urlimg }}projects-vim.png" alt="">
-        <h4>Flask-Vue: A website designed primarily to display data</h4>
+        <img src="{{ site.urlimg }}projects-flask-vue-1.png" alt="">
+        <h4>Flask-Vue: A data-focused dynamic website design</h4>
         </a>
         <p>CERN, 2018</p>
     </div><!-- /.medium-4.columns -->
