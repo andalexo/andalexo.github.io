@@ -15,17 +15,14 @@
   - title: "CryoBLM"
     url: "/projects/cryoblm/"
 
-- title: "Notes"
-  url: "/notes/"
-  side: left
-
-# Right side
 - title: Blog
   url: "/blog/"
-  side: right
+  side: left
   dropdown:
   - title: "Blog Archive"
     url: "/blog/archive/"
+
+# Right side
 
 - title: "Search"
   url: "/search/"

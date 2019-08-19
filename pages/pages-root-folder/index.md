@@ -23,7 +23,7 @@ widget2:
 
 widget3:
   title: "Notes"
-  url: '/notes/'
+  url: '/categories/notes/'
   image: widget-notes-303x182.jpg
   text: 'Notes pastebin'
 
