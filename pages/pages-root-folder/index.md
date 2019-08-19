@@ -38,9 +38,9 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 
-callforaction:
-  text: Website material is not complete !
-  style: alert
+# callforaction:
+#   text: Website material is not complete !
+#   style: alert
 
 permalink: /index.html
 #
