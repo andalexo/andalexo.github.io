@@ -27,6 +27,12 @@ widget3:
   image: widget-notes-303x182.jpg
   text: 'Notes pastebin'
 
+widget4:
+  title: "Photography"
+  url: '/photo/'
+  image: widget-photo-303x200.png
+  text: 'Photo albums'
+
 #
 # Use the call for action to show a button on the frontpage
 #
