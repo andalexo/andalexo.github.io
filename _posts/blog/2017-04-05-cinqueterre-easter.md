@@ -2,8 +2,7 @@
 layout: page
 subheadline: Travel
 title:  "CinqueTerre"
-teaser: "Easter in cinqueterre"
-meta_teaser: "Easter in cinqueterre"
+teaser: "Cinque Terre is a string of centuries-old seaside villages on the rugged Italian Riviera coastline. In each of the 5 towns, colorful houses and vineyards cling to steep terraces, harbors are filled with fishing boats and trattorias turn out seafood specialties along with the Liguria region’s famous sauce, pesto. The Sentiero Azzurro cliffside hiking trail links the villages and offers sweeping sea vistas. And besides this wonderful wikipedia text, this is also where I spent the Easter of 2017."
 breadcrumb: true
 categories:
     - blog

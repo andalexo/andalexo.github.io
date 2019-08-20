@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline:  "Linux"
 title:  "Fedora Config"
-teaser: "Not-taking while setting up my system"
+teaser: "Note-taking while setting up my system. It happens that stuff change, deprecated or simply I happen to stop using them. Such a note would be helpful documenting what and why I added or removed."
 breadcrumb: true
 categories:
     - notes

@@ -34,6 +34,8 @@ permalink: "/bio/"
 
 <div class="alert-box {{ info }} {{ include.classes }}"><a href="{{ site.url }}/assets/alexopoulos_cv.pdf">Download my CV</a></div>
 
+<div class="alert-box {{ info }} {{ include.classes }}"><a href="{{ site.url }}/publications">My Publications</a></div>
+
 </div><!-- /.medium-8.columns -->
 </div><!-- /.row -->
 

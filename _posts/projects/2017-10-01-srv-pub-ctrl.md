@@ -2,7 +2,7 @@
 layout: page-fullwidth
 subheadline:  "CERN"
 title:  "Server Publisher Controller"
-teaser: "It would be nice to deploy servers and publishers easier, only implementing the interface class... I don't want every time to write the code taking care of a connection and publishing data... Could it be that I can do this just by writing a JSON file and my control module ?"
+teaser: "It would be nice to deploy servers and publishers easier, only implementing the interface class. I don't want every time to write the code taking care of a connection and publishing data ! Could it be that I can do this just by writing a JSON file and my control module ? Such bored thoughs were the driving force behind the developement of this package."
 breadcrumb: true
 categories:
     - projects
