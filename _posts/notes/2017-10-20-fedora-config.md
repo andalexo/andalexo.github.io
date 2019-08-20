@@ -10,6 +10,7 @@ tags:
     - linux
 header: no
 image:
-    thumb: "header-brooklyn-bridge-thumb.jpg"
+    thumb: "blog/2017-10-20-fedora-logo-200px.png"
 ---
+
 My system is down.

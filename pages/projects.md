@@ -18,7 +18,7 @@ permalink: "/projects/"
 <div class="row t60">
     <div class="medium-6 columns b30">
         <a href="{{ site.categories.projects.url }}bgv/">
-        <img src="{{ site.urlimg }}projects-bgv-animation.gif" alt="">
+        <img src="{{ site.urlimg }}projects/bgv/bgv-animation.gif" alt="">
         <h4>Beam Gas Vertex Demostrator (BGV)</h4>
         </a>
         <p>CERN, 2015-2019</p>
@@ -26,7 +26,7 @@ permalink: "/projects/"
 
     <div class="medium-6 columns b30">
         <a href="{{ site.categories.projects.url }}cryoblm/">
-        <img src="{{ site.urlimg }}projects-cryoblm.png" alt="">
+        <img src="{{ site.urlimg }}projects/cryoblm/cryoblm-thumb.png" alt="">
         <h4>Cryogenic Beam Loss Monitors (CryoBLM)</h4>
         </a>
         <p>CERN, 2014-2015</p>
@@ -38,7 +38,7 @@ permalink: "/projects/"
 <div class="row t30">
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}srv-pub-ctrl/">
-        <img src="{{ site.urlimg }}projects-srvpubctrl.png" alt="">
+        <img src="{{ site.urlimg }}projects/srv-pub-ctrl/srvpubctrl.png" alt="">
         <h4>SRV-PUB-CTRL: Dynamic H/W control with servers and publishers</h4>
         </a>
         <p>CERN, 2017</p>
@@ -46,7 +46,7 @@ permalink: "/projects/"
 
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}apidpy/">
-        <img src="{{ site.urlimg }}projects-apidpy.png" alt="">
+        <img src="{{ site.urlimg }}projects/apidpy/apidpy-thumb.png" alt="">
         <h4>APIDPy - A Package for Interactive Data Processing</h4>
         </a>
         <p>CERN, 2016</p>
@@ -54,7 +54,7 @@ permalink: "/projects/"
 
     <div class="medium-4 columns">
         <a href="{{ site.categories.projects.url }}flask-vue/">
-        <img src="{{ site.urlimg }}projects-flask-vue-1.png" alt="">
+        <img src="{{ site.urlimg }}projects/flask-vue/flask-vue-1.png" alt="">
         <h4>Flask-Vue: A data-focused dynamic website design</h4>
         </a>
         <p>CERN, 2018</p>

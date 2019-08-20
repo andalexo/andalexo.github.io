@@ -10,10 +10,10 @@ categories:
 tag: "random"
 header: no
 image:
-    title: 2016-04-06-blog-header-hello-world.jpg
+    title: blog/2016-04-06-blog-header-hello-world.jpg
     caption: Wikipedia
     caption_url: https://en.wikipedia.org/wiki/%22Hello,_World!%22_program
-    thumb: "2016-04-06-blog-header-hello-world.jpg"
+    thumb: "blog/2016-04-06-blog-header-hello-world.jpg"
 author: andalexo
 ---
 

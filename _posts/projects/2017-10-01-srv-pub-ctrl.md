@@ -7,9 +7,9 @@ breadcrumb: true
 categories:
     - projects
 header:
-    image_fullwidth: "projects-srvpubctrl-inverted.png"
+    image_fullwidth: "projects/srv-pub-ctrl/srvpubctrl-inverted.png"
 image:
-    thumb: "projects-srvpubctrl.png"
+    thumb: "projects/srv-pub-ctrl/srvpubctrl.png"
 ---
 
 _A controller for deploying servers and publishers._
@@ -25,7 +25,7 @@ A publisher on the other side, implements a publish-subscribe scheme, where clie
 The settings of the srv-pub-ctrl are defined at the input configuration file.
 The structure of the configuration file and the corresponding created objects can be seen at the schematic below.
 
-{% include _image_with_caption.html url="/images/projects-srvpubctrl.png" 
+{% include _image_with_caption.html url="/images/projects/srv-pub-ctrl/srvpubctrl.png" 
                                     description="The structure of the JSON configuration file and the related objects." 
 %}
 
