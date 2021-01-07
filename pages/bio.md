@@ -69,4 +69,10 @@ Andreas Alexopoulos is a PhD student from the University of Thessaly. For the pa
 
 ---
 
+### Konnecta
+
+Andreas Alexopoulos is a Software Engineer / Data Scientist. He holds a Diploma in Computer & Communication Engineering from the University of Thessaly. He then joined the European Organization for Nuclear Research (CERN) while following the MSc and PhD program of the same university. During his 5-year collaboration with CERN, he performed research and specialized in the development of beam diagnostics for accelerators. He was also involved with CERN's R&D groups (RD39, RD42) for the development of radiation hard solid-state detectors. His work focused on the design and implementation of the control, data acquisition and analysis software of various beam instrumentation diagnostics thus gaining solid experience in embedded systems, communication protocols and data science. For his PhD thesis he participated in the development of a novel detector measuring the beam size of the LHC and implemented the detector's real-time control, data acquisition and data processing software. His work has been published among others from Elsevier, American Physical Society (APS) and Institute of Physics (IOP) while he has published and presented in several conferences.
+
+---
+
 <a class="radius button small" href="{{ site.url }}/antibio/">Antibio ›</a>
